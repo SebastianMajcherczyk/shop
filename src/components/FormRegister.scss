@@ -1,0 +1,14 @@
+.form{
+display: flex;
+flex-direction: column;
+width: 300px;
+margin : 0 auto;
+row-gap: 20px;
+
+}
+
+.form>div{
+display: flex;
+flex-direction: column;
+    width: 95%
+}
