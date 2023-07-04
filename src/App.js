@@ -1,7 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
 
-function App() {
+const App = () => {
   return (
     <div className="App">
 
@@ -10,3 +9,4 @@ function App() {
 }
 
 export default App;
+
